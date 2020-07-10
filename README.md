@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+#### 안녕하세욤&& 저능 세상울 구하고 시픈 유노에용
+
 <!--
 **YUJO42/YUJO42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
