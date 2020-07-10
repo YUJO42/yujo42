@@ -3,8 +3,6 @@
 ### My Blog 👉 https://velog.io/@yujo
 ### Contact Me 👉 yujo@student.42seoul.kr
 
-#### 👨‍💻 Study in 42Seoul
-
 <!--
 **YUJO42/YUJO42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
