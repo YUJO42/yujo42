@@ -4,7 +4,6 @@
 ### Contact Me 👉 yujo@student.42seoul.kr
 
 #### 👨‍💻 Study in 42Seoul
-#### ☁️ IBM C:LOUDER:s
 
 <!--
 **YUJO42/YUJO42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
