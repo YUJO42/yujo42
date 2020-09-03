@@ -1,3 +1,3 @@
 <div align=center>
-STUDY HARD👨‍💻
+STUDY JS TS REACT NODE👨‍💻
 </div>
