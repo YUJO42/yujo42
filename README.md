@@ -4,6 +4,9 @@
 
 <h1 align=center>Hi, there!</h1>
 <p align="center">
+  
+  my blog : [here!](https://yujo11.github.io/)
+  my handbook : [here!](https://app.gitbook.com/@yujo/s/selfmade-handbook/)
 
 </p>
 </div>
