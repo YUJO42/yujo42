@@ -1,6 +1,3 @@
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=2AC1BC" />
-
 ### 🙋‍♂️ YUJO\`s Github
 
 ![snake gif](https://github.com/yujo11/yujo11/blob/output/github-contribution-grid-snake.gif)
