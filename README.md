@@ -4,8 +4,8 @@
 
 #### 🌏 Site
 
-- **Blog**: [링크](https://yujo11.github.io/)
-- **Handbook**: [링크](https://app.gitbook.com/@yujo/s/selfmade-handbook/)
+- **Blog**: [Link 📚](https://yujo11.github.io/)
+- **Handbook**: [Link 📖](https://app.gitbook.com/@yujo/s/selfmade-handbook/)
 
 #### 🔗 **Contact**
 
