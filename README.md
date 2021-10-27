@@ -5,7 +5,7 @@
 #### 🌏 Site
 
 - **📚 Blog**: [Link](https://yujo11.github.io/)
-- **📖 Handbook**: [Link](https://app.gitbook.com/@yujo/s/selfmade-handbook/)
+- **📖 Handbook**: [Link](https://yujo.gitbook.io/handbook/)
 
 #### 🔗 **Contact**
 
