@@ -4,6 +4,8 @@
 
 #### 🌏 Site
 
+> - old blog(Not currently used): [Link](https://velog.io/@yujo?tag=TIL)
+
 - **📚 Blog**: [Link](https://yujo11.github.io/)
 - **📖 Handbook**: [Link](https://yujo.gitbook.io/handbook/)
 
